@@ -37,8 +37,9 @@ infrastructure, with a strong emphasis on long-term impact and community engagem
 
 ## Selected Links
 
-- Google Scholar: *https://scholar.google.com/citations?user=LMNSwU8AAAAJ&hl=en*
-- Arxiv: *https://arxiv.org/search/math?searchtype=author&query=Zeytuncu,+Y*
+- [Google Scholar](https://scholar.google.com/citations?user=LMNSwU8AAAAJ&hl=en)
+- [Arxiv](https://arxiv.org/search/math?searchtype=author&query=Zeytuncu,+Y)
+- [4OPS on Apple](https://apps.apple.com/app/4ops/id6443661577)
 - GitHub: you’re here
 
 ---
