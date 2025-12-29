@@ -19,8 +19,9 @@ infrastructure, with a strong emphasis on long-term impact and community engagem
 
 - **ML Toolbox** — Reusable utilities for reproducible ML experimentation  
 - **Lean & Formalization** — Integrating proof assistants into undergraduate mathematics  
-- **4OPS** — Arithmetic reasoning game and dataset for machine learning research  
 - **Mathematics Education & Outreach** — [REU Site in Mathematical Analysis and Applications](https://sites.google.com/a/umich.edu/math-reu/), [Math Corps @ Dearborn](https://sites.google.com/umich.edu/c4me/math-corps?authuser=0), and A2PSA: Ann Arbor Problem Solving Academy
+- **4OPS** — Arithmetic reasoning game and dataset for machine learning research  
+
 
 ---
 
